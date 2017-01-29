@@ -1,2 +1,2 @@
-# 04_BattleTank
+# BattleTank
 An open-world Battle tank game in Unreal 4
